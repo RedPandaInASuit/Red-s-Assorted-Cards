@@ -1,0 +1,10 @@
+{
+  "name": "reds_Toast",
+  "modPrefix": "reds",
+  "displayedName": "Toast",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "texture": "portrait_toast.png",
+  "emissionTexture": "portrait_toast_emission.png"
+}
