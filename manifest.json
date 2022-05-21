@@ -1,0 +1,13 @@
+{
+  "name": "Reds_Assorted_Cards",
+  "description": "Adds an assortment of random and silly cards I thought would be fun to have.",
+  "version_number": "1.0.1",
+  "dependencies": [
+  "BepInEx-BepInExPack_Inscryption-5.4.1901",
+	"API_dev-API-2.3.0",
+	"MADH95Mods-JSONCardLoader-2.1.0",
+	"AllTheSigils-All_The_Sigils-2.5.4",
+	"Infiniscryption-Pack_Management_API-1.0.6"
+  ],
+  "website_url": "https://inscryption.thunderstore.io/package/RedPandaInASuit/Reds_Assorted_Cards/"
+}

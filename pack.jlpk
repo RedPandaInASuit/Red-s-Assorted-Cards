@@ -1,0 +1,7 @@
+{
+	"Title": "Red's Assorted Cards",
+	"Description": "An assortment of random and silly cards created by RedPandaInASuit.",
+	"ModPrefix": "reds",
+	"PackArt": "Artwork/pack.png",
+    "ValidFor": ["LeshyPack"]
+}
